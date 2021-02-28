@@ -1,0 +1,10 @@
+.friends-container{
+    display: flex;
+}
+.friends-data{
+    width: 70%;
+    margin: 50px;
+}
+.friends-add{
+    margin-top: 50px;
+}

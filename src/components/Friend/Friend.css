@@ -1,0 +1,26 @@
+.friend{
+    display: flex;
+    border: 1px solid gray;
+    margin: 10px;
+}
+.photo img{
+    width: 250px;
+    height: 100%;
+}
+.details{
+    padding: 0px 50px;
+}
+.details button{
+    background: #f6d365;
+    color: white;
+    width: 150px;
+    height: 30px;
+    padding: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    border: none;
+}
+.button-icon{
+    padding-right: 5px;
+}

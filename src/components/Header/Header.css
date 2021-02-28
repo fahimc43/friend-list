@@ -1,0 +1,7 @@
+.header nav{
+    text-align: center;
+    background-color: #f6d365;
+    display: grid;
+    color: white;
+    font-size: 1rem;
+}
